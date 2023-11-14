@@ -1,0 +1,36 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+.centerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    background-color: white;
+    color: black;
+    text-align: center;
+    display: block;
+    width: 70%;
+    height: 130%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 10px #ffffff;
+}
+ul{
+    
+    background-color: white;
+    color: black;
+    width: 90%;
+    height: 110%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    color: #ffffff;
+    text-align: center;
+}
